@@ -1,0 +1,17 @@
+1. Sir Donald Bradman (Australia)
+Batting average: 99.94
+
+2. Sachin Tendulkar (India)
+Batting average: 53.78
+
+3. Sir Garfield Sobers (West Indies)
+Batting average: 57.78
+
+4. Imran Khan (Pakistan)
+5. Sir Ian Botham (England)
+6. Shane Warne (Australia)
+7. Sir Viv Richards (West Indies)
+8. Brian Lara (West Indies)
+9. Jaques Kallis (South Africa)
+10. MS Dhoni (India)
+11. Wasim Akram (Pakistan)

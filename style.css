@@ -1,0 +1,22 @@
+h1{
+    color: black;
+   background-color: yellow;
+}
+.links{
+    text-align: center;
+    background-color: darkgrey;
+    color: black;
+    display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.menu{
+    position: fixed;
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    z-index: 10;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, rgb(0, 247, 255), rgb(26, 122, 201));
+}
